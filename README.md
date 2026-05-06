@@ -1,9 +1,4 @@
-my resume,
-//
-Hi!!
-//
-I am
-Paras Nainwal
+I am Paras Nainwal
 Python Developer | Backend Engineering | AI & Data Pipelines
 I'm a third-year Computer Science student at Uttarakhand Technical University, Dehradun, building production-grade backend systems and data pipelines in Python.
 My work spans FastAPI-based REST APIs, automated ETL pipelines, ML model development, and prompt engineering for voice AI — with a focus on clean code, reliability, and end-to-end ownership.
